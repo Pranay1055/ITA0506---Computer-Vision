@@ -1,1 +1,0 @@
-# ITA0506---Computer-Vision
